@@ -1,0 +1,6 @@
+COMANDOS GIT
+
+Crear repo: git init
+
+Ver estado del repo: git status
+
