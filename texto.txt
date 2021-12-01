@@ -8,4 +8,5 @@ Pasar al staging area: git add .
 
 Hacer el commit: git commit -m 'Un comentario descriptivo'
 
+Clonar repo: git clone https://github.com/MarioRampi/Grupo109.git
 
