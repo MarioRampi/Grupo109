@@ -2,11 +2,14 @@ COMANDOS GIT
 
 Crear repo: git init
 
+Clonar repo: git clone https://github.com/MarioRampi/Grupo109.git
+
 Ver estado del repo: git status
 
 Pasar al staging area: git add .
 
 Hacer el commit: git commit -m 'Un comentario descriptivo'
 
-Clonar repo: git clone https://github.com/MarioRampi/Grupo109.git
+Guardar el repo en remoto: git push origin rama
+
 
