@@ -4,3 +4,8 @@ Crear repo: git init
 
 Ver estado del repo: git status
 
+Pasar al staging area: git add .
+
+Hacer el commit: git commit -m 'Un comentario descriptivo'
+
+
